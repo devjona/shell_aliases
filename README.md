@@ -1,3 +1,5 @@
+```shell
+
 # Put some aliases in here that you can copy/paste to any new machine!
 # GIT aliases
 alias gcm='git commit -m "'
@@ -19,3 +21,4 @@ alias grebc='git rebase --continue'
 alias catbash='cat ~/.bash_profile'
 alias vimbash='vim ~/.bash_profile'
 alias bashreload='source ~/.bash_profile'
+```
